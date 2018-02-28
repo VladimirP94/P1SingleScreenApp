@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="name">Netokracija d.o.o.</string>
+    <string name="clients">Clients</string>
+    <string name="projects">Projects</string>
+    <string name="Employees">Employees</string>
+    <string name="clientsn">125</string>
+    <string name="projectsn">326</string>
+    <string name="employeesn">60</string>
+    <string name="mail">info@netokracija.com</string>
+    <string name="number">+385993251855</string>
+    <string name="add">Add to group</string>
+    <string name="show">Show all comments</string>
+    <string name="button">Follow Me</string>
+</resources>

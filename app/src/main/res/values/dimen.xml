@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="relativeH">405dp</dimen>
+  <dimen name="linearH">350dp</dimen>
+   <dimen name="circleT">45dp</dimen>
+    <dimen name="circleW">150dp</dimen>
+    <dimen name="circleTh">150dp</dimen>
+    <dimen name="textNt">10dp</dimen>
+    <dimen name="textS">21sp</dimen>
+    <dimen name="cardW">400dp</dimen>
+    <dimen name="cardH">120dp</dimen>
+    <dimen name="cardmT">275dp</dimen>
+    <dimen name="cardE">5dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="paddingT">10dp</dimen>
+    <dimen name="infoW">360dp</dimen>
+    <dimen name="infoT">35dp</dimen>
+    <dimen name="infoTi">25dp</dimen>
+    <dimen name="infopL">25dp</dimen>
+    <dimen name="imageW">36dp</dimen>
+    <dimen name="imageH">36dp</dimen>
+    <dimen name="imagepL">20dp</dimen>
+    <dimen name="buttonmT">35dp</dimen>
+    <dimen name="buttonmB">10dp</dimen>
+</resources>
